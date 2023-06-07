@@ -7,7 +7,7 @@
 	<packaging>war</packaging>
 	<version>0.0.1-SNAPSHOT</version>
 	
-	<name>visa-prod-job</name>
+	<name>maven-web-application</name>
 
 	<description>Maven Web Project for Java Project</description>
 
@@ -142,7 +142,7 @@
 					<downloadSources>true</downloadSources>
 					<downloadJavadocs>true</downloadJavadocs>
 					<wtpversion>2.0</wtpversion>
-					<wtpContextName>visa-prod-job</wtpContextName>
+					<wtpContextName>maven-web-application</wtpContextName>
 				</configuration>
 			</plugin>
 			
